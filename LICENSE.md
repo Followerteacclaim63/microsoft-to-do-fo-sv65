@@ -1,4 +1,4 @@
-#  
+#  Enhance Microsoft To Do for macOS with Microsoft To Do for macOS elite Plugin - task automation and offline access, the #1 plugin. Includes task automation and offline access for
 
 
 
